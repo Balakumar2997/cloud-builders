@@ -43,3 +43,6 @@ images:
 - 'us-docker.pkg.dev/$PROJECT_ID/ga/v1/git'
 
 timeout: 1800s
+
+options:
+  logging: CLOUD_LOGGING_ONLY
